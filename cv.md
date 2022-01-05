@@ -1,5 +1,7 @@
 # Duben Kiryl
 
+<img src="./Kiryl%20duben.jpg" width="200">
+
 ### Contacts:
 Phone:  +375-29-114-09-71     
 Email: KirylDubenFED@yandex.ru                                                                                                 
